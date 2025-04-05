@@ -19,7 +19,7 @@
 ## 🔧 MERN Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github,vscode" alt="MERN Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github," alt="MERN Stack" />
 </div>
 
 
