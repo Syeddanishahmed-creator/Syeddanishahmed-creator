@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syeddanishahmed-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeddanishahmed-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Syeddanishahmed-100000?logo=github&logoColor=white)](https://github.com/syeddanishahmed-creator)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Portfolio-%2300C8FF)](https://syeddanishahmed.dev)
 [![Email](https://img.shields.io/badge/Email-syeddanishahmed.dev%40gmail.com-%23D14836?logo=gmail&logoColor=white)](mailto:syeddanishahmed.dev@gmail.com)
 
 ---
@@ -20,12 +19,9 @@
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
-- **Frameworks & Libraries:** React, Node.js, Express, MongoDB, Firebase, Bootstrap, Tailwind CSS
-- **Databases:** MongoDB, MySQL, Firebase Realtime Database
-- **Version Control:** Git, GitHub
-- **Cloud:** Firebase, AWS (S3, Lambda, EC2)
-- **Tools:** Visual Studio Code, Docker, Postman, Jira, GitHub Actions
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,firebase,bootstrap,tailwind" />
+</div>
 
 ---
 
@@ -68,3 +64,4 @@
 ---
 
 <p align="center">💻 Keep coding. Keep growing. Keep shining! 🌟</p>
+
