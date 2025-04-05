@@ -1,71 +1,69 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Syed Danish Ahmed</h1>
-<h3 align="center">MERN Stack Developer | JavaScript Enthusiast | Tech Explorer | Firebase Fan</h3>
+# Hello, I'm Syed Danish Ahmed 👋
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&lines=MERN+Stack+Developer+🚀|Building+Responsive+Web+Apps+💻|JavaScript+Mastery+🔥|Always+Striving+For+Excellence+💡" alt="Typing SVG" />
-</p>
+## MERN Stack Developer | JavaScript Enthusiast | Tech Explorer | Firebase Fan
 
-
----
-
-## 🧠 About Me
-
-- 🔭 I’m currently building full-stack apps using **React + Node + MongoDB**
-- 🌱 Currently mastering **backend APIs, authentication, and deployment**
-- 💬 Ask me about **JavaScript, React, Node.js, GitHub tricks**
-- 📫 Reach me at: **syeddanishahmed.dev@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syeddanishahmed-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeddanishahmed-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Syeddanishahmed-100000?logo=github&logoColor=white)](https://github.com/syeddanishahmed-creator)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Portfolio-%2300C8FF)](https://syeddanishahmed.dev)
+[![Email](https://img.shields.io/badge/Email-syeddanishahmed.dev%40gmail.com-%23D14836?logo=gmail&logoColor=white)](mailto:syeddanishahmed.dev@gmail.com)
 
 ---
 
-## 🔧 Tech Stack & Tools
+### 🚀 About Me:
+
+- 🔭 I’m currently working on building full-stack applications using **React** and **Node.js**.
+- 🌱 I’m currently learning **GraphQL** and **Advanced JavaScript Patterns**.
+- 💬 Ask me about **JavaScript, MERN Stack**, and **Cloud Technologies**.
+- 📫 Reach me at: [syeddanishahmed.dev@gmail.com](mailto:syeddanishahmed.dev@gmail.com)
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
+- **Frameworks & Libraries:** React, Node.js, Express, MongoDB, Firebase, Bootstrap, Tailwind CSS
+- **Databases:** MongoDB, MySQL, Firebase Realtime Database
+- **Version Control:** Git, GitHub
+- **Cloud:** Firebase, AWS (S3, Lambda, EC2)
+- **Tools:** Visual Studio Code, Docker, Postman, Jira, GitHub Actions
+
+---
+
+### 💻 GitHub Stats:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,bootstrap,tailwind,firebase" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Syeddanishahmed-creator&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeddanishahmed-creator&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeddanishahmed-creator&layout=compact&theme=radical" width="48%" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syeddanishahmed-creator&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syeddanishahmed-creator&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeddanishahmed-creator&layout=compact&theme=tokyonight" width="49%" />
-</div>
-
----
-
-## 🚀 Projects
+### 🚀 Projects
 
 | Name | Description | Live Demo | Code |
 |------|-------------|-----------|------|
 | 🎮 **Tic Tac Toe** | Classic 2-player game built using HTML, CSS, JS | [Play Now](https://syeddanishahmed-creator.github.io/TIC-TAC-TOE/) | [GitHub](https://github.com/Syeddanishahmed-creator/TIC-TAC-TOE) |
-| 🏎️ **Lamborghini Animation** | A sleek car-themed animation website | *(Add live link)* | [GitHub](https://github.com/Syeddanishahmed-creator/Lamborghini) |
-| 💼 **Portfolio Website** | Personal portfolio website (in progress) | *(Coming Soon)* | *(Coming Soon)* |
+| 🏎️ **Lamborghini Animation** | A sleek car-themed animation website | [View Demo](#) | [GitHub](https://github.com/Syeddanishahmed-creator/Lamborghini) |
+| 📄 **Portfolio Website** | Personal portfolio showcasing my skills and projects | [Coming Soon] | [GitHub](#) |
 
 ---
 
-## 🏅 Badges & Dev Swag
+### 📈 Activity & Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Syeddanishahmed-creator?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/Syeddanishahmed-creator?style=social" />
-  <img src="https://img.shields.io/badge/JavaScript-Lover-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-Rocks-brightgreen?logo=node.js" />
-</p>
+- 🏅 100+ commits in the last month
+- 🎯 Completed **MERN Stack** certification from [freeCodeCamp](https://www.freecodecamp.org/)
+- 🎥 Published 10+ tutorials on **JavaScript** and **React** development
 
 ---
 
-## 📬 Connect With Me
+### 🌟 Let's Connect!
 
-<p align="center">
-  <a href="https://linkedin.com/in/syeddanishahmed-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:syeddanishahmed.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Syeddanishahmed-creator" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
-  <a href="https://www.facebook.com/syeddeeahmed/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syeddanishahmed-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeddanishahmed-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Syeddanishahmed-100000?logo=github&logoColor=white)](https://github.com/syeddanishahmed-creator)
+[![Facebook](https://img.shields.io/badge/Facebook-Syeddanishahmed-%234267B2?logo=facebook&logoColor=white)](https://www.facebook.com/syeddeeahmed/)
+[![Twitter](https://img.shields.io/badge/Twitter-SyedDanishAhmed-%231DA1F2?logo=twitter&logoColor=white)](https://twitter.com/syeddanishahm)
+[![Email](https://img.shields.io/badge/Email-syeddanishahmed.dev%40gmail.com-%23D14836?logo=gmail&logoColor=white)](mailto:syeddanishahmed.dev@gmail.com)
 
 ---
 
