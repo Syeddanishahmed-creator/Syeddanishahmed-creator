@@ -12,14 +12,14 @@
 - 🌱 Currently learning **backend APIs**, **authentication**, and **deployment**.
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, **GitHub Tricks**.
 - 📫 Reach me at: **syeddanishahmed.dev@gmail.com**
-- 🌐 Portfolio: [Click Here](https://syeddanishahmed.com)
+  
 
 ---
 
 ## 🔧 MERN Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" alt="MERN Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,git,github,vscode" alt="MERN Stack" />
 </div>
 
 
