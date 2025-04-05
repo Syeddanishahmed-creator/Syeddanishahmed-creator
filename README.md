@@ -5,11 +5,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&width=600&lines=Building+Web+Apps+🚀;Learning+MERN+Stack+🔧;Love+Clean+Code+❤️;Always+Striving+for+Excellence+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&multiline=true&width=600&lines=Building+MERN+Apps+🚀;Mastering+JavaScript+⚡;Coding+Every+Day+💻;Striving+For+Clean+Code+❤️" alt="Typing SVG" />
 </p>
-
-
-
 
 ---
 
