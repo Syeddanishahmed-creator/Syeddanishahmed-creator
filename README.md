@@ -62,7 +62,9 @@
   <a href="https://linkedin.com/in/syeddanishahmed-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:syeddanishahmed.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Red?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Syeddanishahmed-creator" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/syeddeeahmed/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" /></a>
 </p>
+
 
 
 ---
